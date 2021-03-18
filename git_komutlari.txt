@@ -1,0 +1,12 @@
+
+git init
+
+git add .
+
+git commit -m "whatsp_web_kontrolü_ve_random_msj_atma"
+
+git remote add origin https://github.com/Yeniceugur/Whatsp_web_random_msj_atma.git
+
+git branch -M main
+
+git push -u origin main
